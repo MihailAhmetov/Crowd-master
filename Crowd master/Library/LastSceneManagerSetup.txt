@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Toon Character Pack/Scenes/Toon Character - Bonus Animations SCN.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
